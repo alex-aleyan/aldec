@@ -1,0 +1,8 @@
+# ingore all :
+#*.log
+#*.wlf
+#*.ini
+#transcript*
+#**/libraries
+#projects/sv_howto/SystemVerilog_tb/*
+docs/tutorials/*
